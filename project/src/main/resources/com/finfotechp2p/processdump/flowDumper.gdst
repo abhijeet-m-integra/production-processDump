@@ -86,7 +86,7 @@
         <isOtherwise>false</isOtherwise>
       </typedDefaultValue>
       <hideColumn>false</hideColumn>
-      <width>484</width>
+      <width>705</width>
       <header>flowDump</header>
       <boundName>fl</boundName>
       <factField>processList</factField>
@@ -166,7 +166,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:Pan Verification,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -204,7 +204,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:PAN Verification,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -242,7 +242,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:PAN Verification,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -280,7 +280,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:PAN Verification,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -318,7 +318,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,referenceCollection:Reference collection,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing,referenceVerification:Reference verification&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:PAN Verification,referenceCollection:Reference Collection,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing,referenceVerification:Reference Verification&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -356,7 +356,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,referenceCollection:Reference collection,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing,referenceVerification:Reference verification&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:PAN Verification,referenceCollection:Reference Collection,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing,referenceVerification:Reference Verification&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -394,7 +394,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,referenceCollection:Reference collection,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing,referenceVerification:Reference verification&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:PAN Verification,referenceCollection:Reference Collection,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing,referenceVerification:Reference Verification&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -432,7 +432,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;emailVerification:Email verification,mobileVerification:Mobile verification,panVerification:Pan verification,referenceCollection:Reference collection,addressVerification:Address verification,photoUpload:Photo upload,accountVerification:Account verification,VKYC:KYC verification,TnC:TnC signing,referenceVerification:Reference verification&quot;</valueString>
+        <valueString>&quot;emailVerification:Email Verification,mobileVerification:Mobile Verification,panVerification:PAN Verification,referenceCollection:Reference Collection,addressVerification:Address Verification,photoUpload:Photo Upload,accountVerification:Account Verification,VKYC:KYC Verification,TnC:T&amp;C Signing,referenceVerification:Reference Verification&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -470,7 +470,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>&quot;mobileVerification:Mobile verification,panVerification:Pan verification,addressVerification:Address verification, TnC:TnC signing&quot;</valueString>
+        <valueString>&quot;mobileVerification:Mobile Verification,panVerification:PAN Verification,addressVerification:Address Verification, TnC:TnC Signing&quot;</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
